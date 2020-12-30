@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: b5aaebc75354984d7cee90405a1f6642\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-01-17 23:08+0300\n"
-"PO-Revision-Date: 2020-12-29 14:12\n"
+"PO-Revision-Date: 2020-12-30 04:19\n"
 "Last-Translator: Full Name <email@address>\n"
 "Language-Team: Belarusian\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: b5aaebc75354984d7cee90405a1f6642\n"
 "X-Crowdin-Project-ID: 7\n"
 "X-Crowdin-Language: be\n"
-"X-Crowdin-File: /master/language/doublecmd.po\n"
-"X-Crowdin-File-ID: 195\n"
+"X-Crowdin-File: /l10n_master/language/doublecmd.po\n"
+"X-Crowdin-File-ID: 2306\n"
 "Language: be_BY\n"
 
 #: fsyncdirsdlg.rscomparingpercent
@@ -139,7 +139,7 @@ msgstr "Зборка"
 #: tfrmabout.lblfreepascalver.caption
 msgctxt "tfrmabout.lblfreepascalver.caption"
 msgid "Free Pascal"
-msgstr "Free Pascal"
+msgstr ""
 
 #: tfrmabout.lblhomepage.caption
 msgid "Home Page:"
@@ -147,12 +147,12 @@ msgstr "Хатняя старонка:"
 
 #: tfrmabout.lblhomepageaddress.caption
 msgid "https://doublecmd.sourceforge.io"
-msgstr "https://doublecmd.sourceforge.io"
+msgstr ""
 
 #: tfrmabout.lbllazarusver.caption
 msgctxt "tfrmabout.lbllazarusver.caption"
 msgid "Lazarus"
-msgstr "Lazarus"
+msgstr ""
 
 #: tfrmabout.lblrevision.caption
 msgctxt "tfrmabout.lblrevision.caption"
@@ -162,7 +162,7 @@ msgstr "Рэвізія"
 #: tfrmabout.lbltitle.caption
 msgctxt "tfrmabout.lbltitle.caption"
 msgid "Double Commander"
-msgstr "Double Commander"
+msgstr ""
 
 #: tfrmabout.lblversion.caption
 msgctxt "tfrmabout.lblversion.caption"
@@ -214,7 +214,7 @@ msgstr "&Толькі для чытання"
 #: tfrmattributesedit.cbsgid.caption
 msgctxt "tfrmattributesedit.cbsgid.caption"
 msgid "SGID"
-msgstr "SGID"
+msgstr ""
 
 #: tfrmattributesedit.cbsparse.caption
 msgid "S&parse"
@@ -228,7 +228,7 @@ msgstr "Мацавальны"
 #: tfrmattributesedit.cbsuid.caption
 msgctxt "tfrmattributesedit.cbsuid.caption"
 msgid "SUID"
-msgstr "SUID"
+msgstr ""
 
 #: tfrmattributesedit.cbsymlink.caption
 msgid "&Symlink"
@@ -449,7 +449,7 @@ msgstr "&Кадаванне:"
 #: tfrmdescredit.lblfilename.caption
 msgctxt "tfrmdescredit.lblfilename.caption"
 msgid "???"
-msgstr "???"
+msgstr ""
 
 #: tfrmdiffer.actabout.caption
 msgctxt "TFRMDIFFER.ACTABOUT.CAPTION"
@@ -840,32 +840,32 @@ msgstr "Перайсці да радка..."
 #: tfrmeditor.acteditlineendcr.caption
 msgctxt "tfrmeditor.acteditlineendcr.caption"
 msgid "Mac (CR)"
-msgstr "Mac (CR)"
+msgstr ""
 
 #: tfrmeditor.acteditlineendcr.hint
 msgctxt "TFRMEDITOR.ACTEDITLINEENDCR.HINT"
 msgid "Mac (CR)"
-msgstr "Mac (CR)"
+msgstr ""
 
 #: tfrmeditor.acteditlineendcrlf.caption
 msgctxt "tfrmeditor.acteditlineendcrlf.caption"
 msgid "Windows (CRLF)"
-msgstr "Windows (CRLF)"
+msgstr ""
 
 #: tfrmeditor.acteditlineendcrlf.hint
 msgctxt "TFRMEDITOR.ACTEDITLINEENDCRLF.HINT"
 msgid "Windows (CRLF)"
-msgstr "Windows (CRLF)"
+msgstr ""
 
 #: tfrmeditor.acteditlineendlf.caption
 msgctxt "tfrmeditor.acteditlineendlf.caption"
 msgid "Unix (LF)"
-msgstr "Unix (LF)"
+msgstr ""
 
 #: tfrmeditor.acteditlineendlf.hint
 msgctxt "TFRMEDITOR.ACTEDITLINEENDLF.HINT"
 msgid "Unix (LF)"
-msgstr "Unix (LF)"
+msgstr ""
 
 #: tfrmeditor.acteditpaste.caption
 msgctxt "TFRMEDITOR.ACTEDITPASTE.CAPTION"
@@ -1083,7 +1083,7 @@ msgstr "&Распакаваць з падкаталогамі"
 #: tfrmextractdlg.cbfilemask.text
 msgctxt "tfrmextractdlg.cbfilemask.text"
 msgid "*.*"
-msgstr "*.*"
+msgstr ""
 
 #: tfrmextractdlg.cbinseparatefolder.caption
 msgid "Unpack each archive to a &separate subdir (name of the archive)"
@@ -1178,7 +1178,7 @@ msgstr "Уласцівасці"
 #: tfrmfileproperties.cbsgid.caption
 msgctxt "TFRMFILEPROPERTIES.CBSGID.CAPTION"
 msgid "SGID"
-msgstr "SGID"
+msgstr ""
 
 #: tfrmfileproperties.cbsticky.caption
 msgctxt "TFRMFILEPROPERTIES.CBSTICKY.CAPTION"
@@ -1188,7 +1188,7 @@ msgstr "Мацавальны"
 #: tfrmfileproperties.cbsuid.caption
 msgctxt "TFRMFILEPROPERTIES.CBSUID.CAPTION"
 msgid "SUID"
-msgstr "SUID"
+msgstr ""
 
 #: tfrmfileproperties.chkexecutable.caption
 msgid "Allow &executing file as program"
@@ -1222,7 +1222,7 @@ msgstr "Уладальнік"
 #: tfrmfileproperties.lblattrtext.caption
 msgctxt "tfrmfileproperties.lblattrtext.caption"
 msgid "-----------"
-msgstr "-----------"
+msgstr ""
 
 #: tfrmfileproperties.lblattrtextstr.caption
 msgctxt "tfrmfileproperties.lblattrtextstr.caption"
@@ -1250,7 +1250,7 @@ msgstr "Назва файла"
 #: tfrmfileproperties.lblfilename.caption
 msgctxt "TFRMFILEPROPERTIES.LBLFILENAME.CAPTION"
 msgid "???"
-msgstr "???"
+msgstr ""
 
 #: tfrmfileproperties.lblfilestr.caption
 msgctxt "tfrmfileproperties.lblfilestr.caption"
@@ -1848,7 +1848,7 @@ msgstr "Утрымліваючы CTRL можна абраць адразу не�
 #: tfrmlinker.btnsave.caption
 msgctxt "tfrmlinker.btnsave.caption"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: tfrmlinker.caption
 msgid "Linker"
@@ -2803,7 +2803,7 @@ msgstr "Спіс выбраных каталогаў"
 #: tfrmmain.btnleftequalright.caption
 msgctxt "tfrmmain.btnleftequalright.caption"
 msgid "<"
-msgstr "<"
+msgstr ""
 
 #: tfrmmain.btnleftequalright.hint
 msgid "Show current directory of the right panel in the left panel"
@@ -2812,7 +2812,7 @@ msgstr "Паказаць бягучы каталог правай панэлі �
 #: tfrmmain.btnlefthome.caption
 msgctxt "tfrmmain.btnlefthome.caption"
 msgid "~"
-msgstr "~"
+msgstr ""
 
 #: tfrmmain.btnlefthome.hint
 msgid "Go to home directory"
@@ -2821,7 +2821,7 @@ msgstr "Перайсці да хатняга каталога"
 #: tfrmmain.btnleftroot.caption
 msgctxt "tfrmmain.btnleftroot.caption"
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #: tfrmmain.btnleftroot.hint
 msgid "Go to root directory"
@@ -2830,7 +2830,7 @@ msgstr "Перайсці да каранёвага каталога"
 #: tfrmmain.btnleftup.caption
 msgctxt "tfrmmain.btnleftup.caption"
 msgid ".."
-msgstr ".."
+msgstr ""
 
 #: tfrmmain.btnleftup.hint
 msgid "Go to parent directory"
@@ -2849,7 +2849,7 @@ msgstr "Спіс выбраных каталогаў"
 #: tfrmmain.btnrightequalleft.caption
 msgctxt "tfrmmain.btnrightequalleft.caption"
 msgid ">"
-msgstr ">"
+msgstr ""
 
 #: tfrmmain.btnrightequalleft.hint
 msgid "Show current directory of the left panel in the right panel"
@@ -2858,22 +2858,22 @@ msgstr "Паказаць бягучы каталог левай панэлі ў 
 #: tfrmmain.btnrighthome.caption
 msgctxt "TFRMMAIN.BTNRIGHTHOME.CAPTION"
 msgid "~"
-msgstr "~"
+msgstr ""
 
 #: tfrmmain.btnrightroot.caption
 msgctxt "TFRMMAIN.BTNRIGHTROOT.CAPTION"
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #: tfrmmain.btnrightup.caption
 msgctxt "TFRMMAIN.BTNRIGHTUP.CAPTION"
 msgid ".."
-msgstr ".."
+msgstr ""
 
 #: tfrmmain.caption
 msgctxt "TFRMMAIN.CAPTION"
 msgid "Double Commander"
-msgstr "Double Commander"
+msgstr ""
 
 #: tfrmmain.lblcommandpath.caption
 msgctxt "tfrmmain.lblcommandpath.caption"
@@ -2882,31 +2882,31 @@ msgstr "Шлях"
 
 #: tfrmmain.mi2080.caption
 msgid "&20/80"
-msgstr "&20/80"
+msgstr ""
 
 #: tfrmmain.mi3070.caption
 msgid "&30/70"
-msgstr "&30/70"
+msgstr ""
 
 #: tfrmmain.mi4060.caption
 msgid "&40/60"
-msgstr "&40/60"
+msgstr ""
 
 #: tfrmmain.mi5050.caption
 msgid "&50/50"
-msgstr "&50/50"
+msgstr ""
 
 #: tfrmmain.mi6040.caption
 msgid "&60/40"
-msgstr "&60/40"
+msgstr ""
 
 #: tfrmmain.mi7030.caption
 msgid "&70/30"
-msgstr "&70/30"
+msgstr ""
 
 #: tfrmmain.mi8020.caption
 msgid "&80/20"
-msgstr "&80/20"
+msgstr ""
 
 #: tfrmmain.micancel.caption
 msgctxt "TFRMMAIN.MICANCEL.CAPTION"
@@ -2964,7 +2964,7 @@ msgstr "Аднавіць"
 #: tfrmmain.mnualloperpause.caption
 msgctxt "tfrmmain.mnualloperpause.caption"
 msgid "||"
-msgstr "||"
+msgstr ""
 
 #: tfrmmain.mnualloperstart.caption
 msgctxt "TFRMMAIN.MNUALLOPERSTART.CAPTION"
@@ -3020,7 +3020,7 @@ msgstr "&Укладкі"
 
 #: tfrmmain.tbchangedir.caption
 msgid "CD"
-msgstr "CD"
+msgstr ""
 
 #: tfrmmain.tbcopy.caption
 msgctxt "TFRMMAIN.TBCOPY.CAPTION"
@@ -3102,7 +3102,7 @@ msgstr "Гарачыя клавішы:"
 
 #: tfrmmaincommandsdlg.lblselectedcommand.caption
 msgid "cm_name"
-msgstr "cm_name"
+msgstr ""
 
 #: tfrmmaincommandsdlg.lblselectedcommandcategory.caption
 msgctxt "tfrmmaincommandsdlg.lblselectedcommandcategory.caption"
@@ -3188,27 +3188,27 @@ msgstr "&Увядзіце новую назву каталога:"
 #: tfrmmodview.btnpath1.caption
 msgctxt "TFRMMODVIEW.BTNPATH1.CAPTION"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: tfrmmodview.btnpath2.caption
 msgctxt "TFRMMODVIEW.BTNPATH2.CAPTION"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: tfrmmodview.btnpath3.caption
 msgctxt "TFRMMODVIEW.BTNPATH3.CAPTION"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: tfrmmodview.btnpath4.caption
 msgctxt "TFRMMODVIEW.BTNPATH4.CAPTION"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: tfrmmodview.btnpath5.caption
 msgctxt "TFRMMODVIEW.BTNPATH5.CAPTION"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: tfrmmodview.caption
 msgctxt "tfrmmodview.caption"
@@ -3226,19 +3226,19 @@ msgstr "1"
 
 #: tfrmmodview.lblpath2.caption
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #: tfrmmodview.lblpath3.caption
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #: tfrmmodview.lblpath4.caption
 msgid "4"
-msgstr "4"
+msgstr ""
 
 #: tfrmmodview.lblpath5.caption
 msgid "5"
-msgstr "5"
+msgstr ""
 
 #: tfrmmodview.lblquality.caption
 msgid "Quality of compress to Jpg"
@@ -3250,23 +3250,23 @@ msgstr "Шырыня:"
 
 #: tfrmmodview.rbbmp.caption
 msgid "BMP"
-msgstr "BMP"
+msgstr ""
 
 #: tfrmmodview.rbico.caption
 msgid "ICO"
-msgstr "ICO"
+msgstr ""
 
 #: tfrmmodview.rbjpg.caption
 msgid "JPG"
-msgstr "JPG"
+msgstr ""
 
 #: tfrmmodview.rbpng.caption
 msgid "PNG"
-msgstr "PNG"
+msgstr ""
 
 #: tfrmmodview.rbpnm.caption
 msgid "PNM"
-msgstr "PNM"
+msgstr ""
 
 #: tfrmmodview.teheight.text
 msgctxt "tfrmmodview.teheight.text"
@@ -3275,7 +3275,7 @@ msgstr "Вышыня"
 
 #: tfrmmodview.tequality.text
 msgid "80"
-msgstr "80"
+msgstr ""
 
 #: tfrmmodview.tewidth.text
 msgctxt "tfrmmodview.tewidth.text"
@@ -3284,7 +3284,7 @@ msgstr "Шырыня"
 
 #: tfrmmsg.lblmsg.caption
 msgid "456456465465465"
-msgstr "456456465465465"
+msgstr ""
 
 #: tfrmmultirename.actanyextmask.caption
 msgctxt "tfrmmultirename.actanyextmask.caption"
@@ -3509,7 +3509,7 @@ msgstr "&Выкарыстоўваць падстаноўку"
 
 #: tfrmmultirename.cmbxwidth.text
 msgid "01"
-msgstr "01"
+msgstr ""
 
 #: tfrmmultirename.edinterval.text
 msgctxt "TFRMMULTIRENAME.EDINTERVAL.TEXT"
@@ -3591,7 +3591,7 @@ msgstr "Шлях да файла"
 #: tfrmmultirenamewait.caption
 msgctxt "TFRMMULTIRENAMEWAIT.CAPTION"
 msgid "Double Commander"
-msgstr "Double Commander"
+msgstr ""
 
 #: tfrmmultirenamewait.lblmessage.caption
 msgid "Click OK when you have closed the editor to load the changed names!"
@@ -3623,7 +3623,7 @@ msgstr "Спіс файлаў"
 
 #: tfrmopenwith.milistoffiles.hint
 msgid "%F"
-msgstr "%F"
+msgstr ""
 
 #: tfrmopenwith.milistofurls.caption
 msgid "Multiple URIs"
@@ -3631,7 +3631,7 @@ msgstr "Спіс URI"
 
 #: tfrmopenwith.milistofurls.hint
 msgid "%U"
-msgstr "%U"
+msgstr ""
 
 #: tfrmopenwith.misinglefilename.caption
 msgid "Single file name"
@@ -3639,7 +3639,7 @@ msgstr "Адзін файл"
 
 #: tfrmopenwith.misinglefilename.hint
 msgid "%f"
-msgstr "%f"
+msgstr ""
 
 #: tfrmopenwith.misingleurl.caption
 msgid "Single URI"
@@ -3647,7 +3647,7 @@ msgstr "Адзін URI"
 
 #: tfrmopenwith.misingleurl.hint
 msgid "%u"
-msgstr "%u"
+msgstr ""
 
 #: tfrmoptions.btnapply.caption
 msgctxt "tfrmoptions.btnapply.caption"
@@ -4228,27 +4228,27 @@ msgstr "Ужыць змены да ўсіх слупкоў"
 #: tfrmoptionscustomcolumns.btnbackcolor.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNBACKCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btnbackcolor2.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNBACKCOLOR2.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btncursorbordercolor.caption
 msgctxt "tfrmoptionscustomcolumns.btncursorbordercolor.caption"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btncursorcolor.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNCURSORCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btncursortext.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNCURSORTEXT.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btndeleteconfigcolumns.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNDELETECONFIGCOLUMNS.CAPTION"
@@ -4258,12 +4258,12 @@ msgstr "&Выдаліць"
 #: tfrmoptionscustomcolumns.btnfont.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNFONT.CAPTION"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btnforecolor.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNFORECOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btngotosetdefault.caption
 msgid "Go to set default"
@@ -4272,17 +4272,17 @@ msgstr "Перайсці да прадвызначанага"
 #: tfrmoptionscustomcolumns.btninactivecursorcolor.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNINACTIVECURSORCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btninactivemarkcolor.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNINACTIVEMARKCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btnmarkcolor.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNMARKCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionscustomcolumns.btnnewconfig.caption
 msgctxt "TFRMOPTIONSCUSTOMCOLUMNS.BTNNEWCONFIG.CAPTION"
@@ -4860,7 +4860,7 @@ msgstr "Перайсці да &налад, звязаных з TC"
 
 #: tfrmoptionsdirectoryhotlist.mihotdirtestmenu.caption
 msgid "HotDirTestMenu"
-msgstr "HotDirTestMenu"
+msgstr ""
 
 #: tfrmoptionsdirectoryhotlist.miimportfromhotlistfile.caption
 msgid "from a Directory &Hotlist file (.hotlist)"
@@ -5350,7 +5350,7 @@ msgstr "Экспартаваць абранае ў файлы .tab"
 
 #: tfrmoptionsfavoritetabs.mifavoritetabstestmenu.caption
 msgid "FavoriteTabsTestMenu"
-msgstr "FavoriteTabsTestMenu"
+msgstr ""
 
 #: tfrmoptionsfavoritetabs.miimportlegacytabfilesaccsetting.caption
 msgid "Import legacy .tab file(s) according to default setting"
@@ -5800,57 +5800,57 @@ msgstr "&Колькасць перазапісаў пры сціранні:"
 #: tfrmoptionsfilepanelscolors.btnbackcolor.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNBACKCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btnbackcolor2.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNBACKCOLOR2.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btncursorbordercolor.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNCURSORBORDERCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btncursorcolor.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNCURSORCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btncursortext.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNCURSORTEXT.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btnforecolor.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNFORECOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btninactivecursorcolor.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNINACTIVECURSORCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btninactivemarkcolor.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNINACTIVEMARKCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btnindbackcolor.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNINDBACKCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btnindcolor.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNINDCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btnmarkcolor.caption
 msgctxt "TFRMOPTIONSFILEPANELSCOLORS.BTNMARKCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfilepanelscolors.btnresettodcdefault.caption
 msgid "Reset to DC default"
@@ -6125,7 +6125,7 @@ msgstr "У&жыць"
 #: tfrmoptionsfiletypescolors.btncategorycolor.caption
 msgctxt "TFRMOPTIONSFILETYPESCOLORS.BTNCATEGORYCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsfiletypescolors.btndeletecategory.caption
 msgctxt "TFRMOPTIONSFILETYPESCOLORS.BTNDELETECATEGORY.CAPTION"
@@ -6300,7 +6300,7 @@ msgstr "Паказваць значкі дзеянняў у &меню"
 #: tfrmoptionsicons.cbiconsinmenussize.text
 msgctxt "TFRMOPTIONSICONS.CBICONSINMENUSSIZE.TEXT"
 msgid "16x16"
-msgstr "16x16"
+msgstr ""
 
 #: tfrmoptionsicons.cbiconsonbuttons.caption
 msgid "Show icons on buttons"
@@ -6567,7 +6567,7 @@ msgstr "Стан аперацыі"
 #: tfrmoptionsmisc.btnoutputpathfortoolbar.caption
 msgctxt "TFRMOPTIONSMISC.BTNOUTPUTPATHFORTOOLBAR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsmisc.btnrelativeoutputpathfortoolbar.hint
 msgctxt "TFRMOPTIONSMISC.BTNRELATIVEOUTPUTPATHFORTOOLBAR.HINT"
@@ -6647,7 +6647,7 @@ msgstr "пікселяў"
 #: tfrmoptionsmisc.lblthumbseparator.caption
 msgctxt "tfrmoptionsmisc.lblthumbseparator.caption"
 msgid "X"
-msgstr "X"
+msgstr ""
 
 #: tfrmoptionsmisc.lblthumbsize.caption
 msgid "&Thumbnail size:"
@@ -7191,7 +7191,7 @@ msgstr "Абраць"
 #: tfrmoptionstoolbarbase.btnopenfile.caption
 msgctxt "tfrmoptionstoolbarbase.BTNOPENFILE.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstoolbarbase.btnother.caption
 msgctxt "tfrmoptionstoolbarbase.btnother.caption"
@@ -7205,7 +7205,7 @@ msgstr "Выдаліць гарачую& клавішу"
 #: tfrmoptionstoolbarbase.btnstartpath.caption
 msgctxt "tfrmoptionstoolbarbase.BTNSTARTPATH.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstoolbarbase.btnsuggestiontooltip.caption
 msgid "Suggest"
@@ -7705,7 +7705,7 @@ msgstr "Вы&даліць"
 #: tfrmoptionstooltips.btnfieldslist.caption
 msgctxt "TFRMOPTIONSTOOLTIPS.BTNFIELDSLIST.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstooltips.btnfieldssearchtemplate.hint
 msgctxt "TFRMOPTIONSTOOLTIPS.BTNFIELDSSEARCHTEMPLATE.HINT"
@@ -7846,67 +7846,67 @@ msgstr "З гісторыяй:"
 #: tfrmoptionstreeviewmenucolor.btfont.caption
 msgctxt "tfrmoptionstreeviewmenucolor.btfont.caption"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnbackgroundcolor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNBACKGROUNDCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btncursorcolor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNCURSORCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnfoundtextcolor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNFOUNDTEXTCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnfoundtextundercursor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNFOUNDTEXTUNDERCURSOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnnormaltextcolor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNNORMALTEXTCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnnormaltextundercursor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNNORMALTEXTUNDERCURSOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnsecondarytextcolor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNSECONDARYTEXTCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnsecondarytextundercursor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNSECONDARYTEXTUNDERCURSOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnshortcutcolor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNSHORTCUTCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnshortcutundercursor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNSHORTCUTUNDERCURSOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnunselectabletextcolor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNUNSELECTABLETEXTCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.btnunselectableundercursor.caption
 msgctxt "TFRMOPTIONSTREEVIEWMENUCOLOR.BTNUNSELECTABLEUNDERCURSOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionstreeviewmenucolor.cbkusagekeyboardshortcut.caption
 msgid "Use and display keyboard shortcut for choosing items"
@@ -7979,12 +7979,12 @@ msgstr "Змяніце колеры злева, і вы ўбачыце як бу
 #: tfrmoptionsviewer.btnbackviewercolor.caption
 msgctxt "TFRMOPTIONSVIEWER.BTNBACKVIEWERCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsviewer.btnfontviewercolor.caption
 msgctxt "TFRMOPTIONSVIEWER.BTNFONTVIEWERCOLOR.CAPTION"
 msgid ">>"
-msgstr ">>"
+msgstr ""
 
 #: tfrmoptionsviewer.gbviewerbookmode.caption
 msgid "Viewer Book Mode"
@@ -8135,7 +8135,7 @@ msgstr "&Верх:"
 #: tfrmquicksearch.btncancel.caption
 msgctxt "TFRMQUICKSEARCH.BTNCANCEL.CAPTION"
 msgid "X"
-msgstr "X"
+msgstr ""
 
 #: tfrmquicksearch.btncancel.hint
 msgid "Close filter panel"
@@ -8147,7 +8147,7 @@ msgstr "Увядзіце тэкст для пошуку і фільтраван�
 
 #: tfrmquicksearch.sbcasesensitive.caption
 msgid "Aa"
-msgstr "Aa"
+msgstr ""
 
 #: tfrmquicksearch.sbcasesensitive.hint
 msgid "Case Sensitive"
@@ -8155,7 +8155,7 @@ msgstr "Зважаць на рэгістр"
 
 #: tfrmquicksearch.sbdirectories.caption
 msgid "D"
-msgstr "D"
+msgstr ""
 
 #: tfrmquicksearch.sbdirectories.hint
 msgctxt "TFRMQUICKSEARCH.SBDIRECTORIES.HINT"
@@ -8164,7 +8164,7 @@ msgstr "Каталогі"
 
 #: tfrmquicksearch.sbfiles.caption
 msgid "F"
-msgstr "F"
+msgstr ""
 
 #: tfrmquicksearch.sbfiles.hint
 msgctxt "TFRMQUICKSEARCH.SBFILES.HINT"
@@ -8173,7 +8173,7 @@ msgstr "Файлы"
 
 #: tfrmquicksearch.sbmatchbeginning.caption
 msgid "{"
-msgstr "{"
+msgstr ""
 
 #: tfrmquicksearch.sbmatchbeginning.hint
 msgid "Match Beginning"
@@ -8181,7 +8181,7 @@ msgstr "Супадае з пачаткам"
 
 #: tfrmquicksearch.sbmatchending.caption
 msgid "}"
-msgstr "}"
+msgstr ""
 
 #: tfrmquicksearch.sbmatchending.hint
 msgid "Match Ending"
@@ -8400,7 +8400,7 @@ msgstr "Змяніць атрыбуты"
 #: tfrmsetfileproperties.cbsgid.caption
 msgctxt "TFRMSETFILEPROPERTIES.CBSGID.CAPTION"
 msgid "SGID"
-msgstr "SGID"
+msgstr ""
 
 #: tfrmsetfileproperties.cbsticky.caption
 msgctxt "TFRMSETFILEPROPERTIES.CBSTICKY.CAPTION"
@@ -8410,7 +8410,7 @@ msgstr "Мацавальны"
 #: tfrmsetfileproperties.cbsuid.caption
 msgctxt "TFRMSETFILEPROPERTIES.CBSUID.CAPTION"
 msgid "SUID"
-msgstr "SUID"
+msgstr ""
 
 #: tfrmsetfileproperties.chkarchive.caption
 msgid "Archive"
@@ -8487,7 +8487,7 @@ msgstr "Уладальнік"
 #: tfrmsetfileproperties.lblattrtext.caption
 msgctxt "TFRMSETFILEPROPERTIES.LBLATTRTEXT.CAPTION"
 msgid "-----------"
-msgstr "-----------"
+msgstr ""
 
 #: tfrmsetfileproperties.lblattrtextstr.caption
 msgctxt "TFRMSETFILEPROPERTIES.LBLATTRTEXTSTR.CAPTION"
@@ -8522,17 +8522,17 @@ msgstr "Запісаць"
 #: tfrmsetfileproperties.zvcreationdatetime.textfornulldate
 msgctxt "tfrmsetfileproperties.zvcreationdatetime.textfornulldate"
 msgid " "
-msgstr " "
+msgstr ""
 
 #: tfrmsetfileproperties.zvlastaccessdatetime.textfornulldate
 msgctxt "tfrmsetfileproperties.zvlastaccessdatetime.textfornulldate"
 msgid " "
-msgstr " "
+msgstr ""
 
 #: tfrmsetfileproperties.zvlastwritedatetime.textfornulldate
 msgctxt "tfrmsetfileproperties.zvlastwritedatetime.textfornulldate"
 msgid " "
-msgstr " "
+msgstr ""
 
 #: tfrmsortanything.btnsort.caption
 msgid "&Sort"
@@ -8550,7 +8550,7 @@ msgstr "&Добра"
 
 #: tfrmsortanything.caption
 msgid "frmSortAnything"
-msgstr "frmSortAnything"
+msgstr ""
 
 #: tfrmsortanything.lblsortanything.caption
 msgid "Drag and drop elements to sort them"
@@ -8571,7 +8571,7 @@ msgstr "Стварыць файл кантрольнай сумы"
 
 #: tfrmsplitter.cmbxsize.text
 msgid "1457664B - 3.5\""
-msgstr "1457664B - 3.5\""
+msgstr ""
 
 #: tfrmsplitter.grbxsize.caption
 msgid "Size and number of parts"
@@ -8604,7 +8604,7 @@ msgstr "&Мегабайтаў"
 #: tfrmstartingsplash.caption
 msgctxt "TFRMSTARTINGSPLASH.CAPTION"
 msgid "Double Commander"
-msgstr "Double Commander"
+msgstr ""
 
 #: tfrmstartingsplash.lblbuild.caption
 msgctxt "TFRMSTARTINGSPLASH.LBLBUILD.CAPTION"
@@ -8614,12 +8614,12 @@ msgstr "Зборка"
 #: tfrmstartingsplash.lblfreepascalver.caption
 msgctxt "TFRMSTARTINGSPLASH.LBLFREEPASCALVER.CAPTION"
 msgid "Free Pascal"
-msgstr "Free Pascal"
+msgstr ""
 
 #: tfrmstartingsplash.lbllazarusver.caption
 msgctxt "TFRMSTARTINGSPLASH.LBLLAZARUSVER.CAPTION"
 msgid "Lazarus"
-msgstr "Lazarus"
+msgstr ""
 
 #: tfrmstartingsplash.lbloperatingsystem.caption
 msgid "Operating System"
@@ -8637,7 +8637,7 @@ msgstr "Рэвізія"
 #: tfrmstartingsplash.lbltitle.caption
 msgctxt "TFRMSTARTINGSPLASH.LBLTITLE.CAPTION"
 msgid "Double Commander"
-msgstr "Double Commander"
+msgstr ""
 
 #: tfrmstartingsplash.lblversion.caption
 msgctxt "TFRMSTARTINGSPLASH.LBLVERSION.CAPTION"
@@ -8790,7 +8790,7 @@ msgstr "Дата"
 
 #: tfrmsyncdirsdlg.headerdg.columns[3].title.caption
 msgid "<=>"
-msgstr "<=>"
+msgstr ""
 
 #: tfrmsyncdirsdlg.headerdg.columns[4].title.caption
 msgctxt "TFRMSYNCDIRSDLG.HEADERDG.COLUMNS[4].TITLE.CAPTION"
@@ -8827,12 +8827,12 @@ msgstr "Паказаць справа"
 #: tfrmsyncdirsdlg.sbcopyleft.caption
 msgctxt "TFRMSYNCDIRSDLG.SBCOPYLEFT.CAPTION"
 msgid "<"
-msgstr "<"
+msgstr ""
 
 #: tfrmsyncdirsdlg.sbcopyright.caption
 msgctxt "TFRMSYNCDIRSDLG.SBCOPYRIGHT.CAPTION"
 msgid ">"
-msgstr ">"
+msgstr ""
 
 #: tfrmsyncdirsdlg.sbduplicates.caption
 msgid "duplicates"
@@ -8841,12 +8841,12 @@ msgstr "дублікаты"
 #: tfrmsyncdirsdlg.sbequal.caption
 msgctxt "tfrmsyncdirsdlg.sbequal.caption"
 msgid "="
-msgstr "="
+msgstr ""
 
 #: tfrmsyncdirsdlg.sbnotequal.caption
 msgctxt "tfrmsyncdirsdlg.sbnotequal.caption"
 msgid "!="
-msgstr "!="
+msgstr ""
 
 #: tfrmsyncdirsdlg.sbsingles.caption
 msgid "singles"
@@ -9177,7 +9177,7 @@ msgstr "Павярнуць на 180 градусаў"
 
 #: tfrmviewer.actrotate270.caption
 msgid "- 90"
-msgstr "- 90"
+msgstr ""
 
 #: tfrmviewer.actrotate270.hint
 msgid "Rotate -90 degrees"
@@ -9185,7 +9185,7 @@ msgstr "Павярнуць на -90 градусаў"
 
 #: tfrmviewer.actrotate90.caption
 msgid "+ 90"
-msgstr "+ 90"
+msgstr ""
 
 #: tfrmviewer.actrotate90.hint
 msgid "Rotate +90 degrees"
@@ -9569,11 +9569,11 @@ msgstr "Калі файл існуе"
 
 #: uaccentsutils.rsstraccents
 msgid "á;â;à;å;ã;ä;ç;é;ê;è;ë;í;î;ì;ï;ñ;ó;ô;ò;ø;õ;ö;ú;û;ù;ü;ÿ;Á;Â;À;Å;Ã;Ä;Ç;É;Ê;È;Ë;Í;Í;Ì;Ï;Ñ;Ó;Ô;Ø;Õ;Ö;ß;Ú;Û;Ù;Ü;Ÿ;¿;¡;œ;æ;Æ;Œ"
-msgstr "á;â;à;å;ã;ä;ç;é;ê;è;ë;í;î;ì;ï;ñ;ó;ô;ò;ø;õ;ö;ú;û;ù;ü;ÿ;Á;Â;À;Å;Ã;Ä;Ç;É;Ê;È;Ë;Í;Í;Ì;Ï;Ñ;Ó;Ô;Ø;Õ;Ö;ß;Ú;Û;Ù;Ü;Ÿ;¿;¡;œ;æ;Æ;Œ"
+msgstr ""
 
 #: uaccentsutils.rsstraccentsstripped
 msgid "a;a;a;a;a;a;c;e;e;e;e;i;i;i;i;n;o;o;o;o;o;o;u;u;u;u;y;A;A;A;A;A;A;C;E;E;E;E;I;I;I;I;N;O;O;O;O;O;B;U;U;U;U;Y;?;!;oe;ae;AE;OE"
-msgstr "a;a;a;a;a;a;c;e;e;e;e;i;i;i;i;n;o;o;o;o;o;o;u;u;u;u;y;A;A;A;A;A;A;C;E;E;E;E;I;I;I;I;N;O;O;O;O;O;B;U;U;U;U;Y;?;!;oe;ae;AE;OE"
+msgstr ""
 
 #: uadministrator.rselevationrequired
 msgid "You need to provide administrator permission"
@@ -9796,7 +9796,7 @@ msgstr "Імпартаваная панэль інструментаў TC"
 #: ulng.rsdefaultpersonalizedabbrevbyte
 msgctxt "ulng.rsdefaultpersonalizedabbrevbyte"
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #: ulng.rsdefaultpersonalizedabbrevgiga
 msgid "GB"
@@ -9816,27 +9816,27 @@ msgstr "Тб"
 
 #: ulng.rsdefaultsuffixdroppedtext
 msgid "_DroppedText"
-msgstr "_DroppedText"
+msgstr ""
 
 #: ulng.rsdefaultsuffixdroppedtexthtmlfilename
 msgid "_DroppedHTMLtext"
-msgstr "_DroppedHTMLtext"
+msgstr ""
 
 #: ulng.rsdefaultsuffixdroppedtextrichtextfilename
 msgid "_DroppedRichtext"
-msgstr "_DroppedRichtext"
+msgstr ""
 
 #: ulng.rsdefaultsuffixdroppedtextsimplefilename
 msgid "_DroppedSimpleText"
-msgstr "_DroppedSimpleText"
+msgstr ""
 
 #: ulng.rsdefaultsuffixdroppedtextunicodeutf16filename
 msgid "_DroppedUnicodeUTF16text"
-msgstr "_DroppedUnicodeUTF16text"
+msgstr ""
 
 #: ulng.rsdefaultsuffixdroppedtextunicodeutf8filename
 msgid "_DroppedUnicodeUTF8text"
-msgstr "_DroppedUnicodeUTF8text"
+msgstr ""
 
 #: ulng.rsdiffadds
 msgid " Adds: "
@@ -10459,20 +10459,20 @@ msgstr "Г"
 
 #: ulng.rslegacydisplaysizesingleletterkilo
 msgid "K"
-msgstr "K"
+msgstr ""
 
 #: ulng.rslegacydisplaysizesinglelettermega
 msgid "M"
-msgstr "M"
+msgstr ""
 
 #: ulng.rslegacydisplaysizesinglelettertera
 msgid "T"
-msgstr "T"
+msgstr ""
 
 #: ulng.rslegacyoperationbytesuffixletter
 msgctxt "ulng.rslegacyoperationbytesuffixletter"
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #: ulng.rslistoffindfileswindows
 msgid "List of \"Find files\" windows"
@@ -11001,7 +11001,7 @@ msgstr "Выканаць загад"
 
 #: ulng.rsmsghotdircommandsample
 msgid "cm_somthing"
-msgstr "cm_somthing"
+msgstr ""
 
 #: ulng.rsmsghotdirconfighotlist
 msgctxt "ulng.rsmsghotdirconfighotlist"
@@ -11399,7 +11399,7 @@ msgstr "Не атрымалася запусціць загад (%s)"
 
 #: ulng.rsmsgprocessid
 msgid "PID: %d"
-msgstr "PID: %d"
+msgstr ""
 
 #: ulng.rsmsgpromptaskingfilename
 msgid "Filename for dropped text:"
@@ -11625,7 +11625,7 @@ msgstr "ПАМЫЛКА: Нечаканае выкарыстанне меню!"
 
 #: ulng.rsmsgurl
 msgid "URL:"
-msgstr "URL:"
+msgstr ""
 
 #: ulng.rsmsguserdidnotsetextension
 msgid "<NO EXT>"
@@ -11803,7 +11803,7 @@ msgstr "Поўная назва, сімвалы ад х да у"
 
 #: ulng.rsmulrenmaskguid
 msgid "GUID"
-msgstr "GUID"
+msgstr ""
 
 #: ulng.rsmulrenmaskhour
 msgid "Hour"
@@ -12233,7 +12233,7 @@ msgstr "Экспартаваная канфігурацыя архіватара
 
 #: ulng.rsoptarchivererrorlevel
 msgid "errorlevel"
-msgstr "errorlevel"
+msgstr ""
 
 #: ulng.rsoptarchiverexportcaption
 msgid "Export archiver configuration"
@@ -12849,7 +12849,7 @@ msgstr "=(з улікам рэгістра)"
 #: ulng.rspluginsearchequalnotcase
 msgctxt "ulng.rspluginsearchequalnotcase"
 msgid "="
-msgstr "="
+msgstr ""
 
 #: ulng.rspluginsearchfieldnotfound
 msgid "Field \"%s\" not found!"
@@ -12870,7 +12870,7 @@ msgstr "!=(з улікам рэгістра)"
 #: ulng.rspluginsearchnotequalnotcase
 msgctxt "ulng.rspluginsearchnotequalnotcase"
 msgid "!="
-msgstr "!="
+msgstr ""
 
 #: ulng.rspluginsearchnotregexpr
 msgid "!regexp"
@@ -13003,7 +13003,7 @@ msgstr "Не атрымалася!"
 
 #: ulng.rssimplewordfalse
 msgid "False"
-msgstr "False"
+msgstr ""
 
 #: ulng.rssimplewordfilename
 msgctxt "ulng.rssimplewordfilename"
@@ -13032,7 +13032,7 @@ msgstr "Паспяхова!"
 
 #: ulng.rssimplewordtrue
 msgid "True"
-msgstr "True"
+msgstr ""
 
 #: ulng.rssimplewordvariable
 msgid "Variable"
@@ -13100,7 +13100,7 @@ msgstr "Іншыя"
 
 #: ulng.rsstrpreviewsearchingletters
 msgid "OU"
-msgstr "OU"
+msgstr ""
 
 #: ulng.rsstrpreviewsidenote
 msgid "Side note"
