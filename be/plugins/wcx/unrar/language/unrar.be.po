@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n%100>=11 && n%100<=14 ? 2 : 3);\n"
+"X-Crowdin-Project: b5aaebc75354984d7cee90405a1f6642\n"
+"X-Crowdin-Project-ID: 7\n"
+"X-Crowdin-Language: be\n"
+"X-Crowdin-File: /master/plugins/wcx/unrar/language/unrar.pot\n"
+"X-Crowdin-File-ID: 18143\n"
+"Project-Id-Version: b5aaebc75354984d7cee90405a1f6642\n"
+"Language-Team: Belarusian\n"
+"Language: be_BY\n"
+"PO-Revision-Date: 2024-10-31 19:06\n"
+
+#: tdialogbox.caption
+msgid "Options"
+msgstr ""
+
+#: tdialogbox.lblpath.caption
+msgid "Path to Win&RAR executable"
+msgstr ""
+
+#: tdialogbox.gboptions.caption
+msgid "Archiving options"
+msgstr ""
+
+#: tdialogbox.gboptions.chkrecovery.caption
+msgid "Add r&ecovery record"
+msgstr ""
+
+#: tdialogbox.gboptions.chkencrypt.caption
+msgid "Encrypt file &names"
+msgstr ""
+
+#: tdialogbox.gboptions.chksolid.caption
+msgid "Create &solid archive"
+msgstr ""
+
+#: tdialogbox.lblmethod.caption
+msgid "&Compression method"
+msgstr ""
+
+#: tdialogbox.brncancel.caption
+msgid "Cancel"
+msgstr ""
+
+#: tdialogbox.btnsave.caption
+msgid "OK"
+msgstr ""
+
+#: tdialogbox.lblargs.caption
+msgid "Additional parameters"
+msgstr ""
+
+#: rarlng.rsdictlargewarning
+msgid "Large dictionary warning"
+msgstr ""
+
+#: rarlng.rsdictnotallowed
+#, object-pascal-format
+msgid "%u GB dictionary exceeds %u GB limit and needs more than %u GB memory to unpack."
+msgstr ""
+
+#: rarlng.rsmsgbuttoncancel
+msgid "&Cancel"
+msgstr ""
+
+#: rarlng.rsmsgbuttonextract
+msgid "&Extract"
+msgstr ""
+
+#: rarlng.rsmsgpasswordenter
+msgid "Please enter the password:"
+msgstr ""
+
+#: rarlng.rsmsgexecutablenotfound
+#, object-pascal-format
+msgid "Cannot find RAR executable!\n\n"
+"%s\n\n"
+"Please check the plugin settings."
+msgstr ""
+
+#: rarlng.rsmsglibrarynotfound
+#, object-pascal-format
+msgid "Cannot load library %s! Please check your installation."
+msgstr ""
+
