@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: b5aaebc75354984d7cee90405a1f6642\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-15 11:15+0300\n"
-"PO-Revision-Date: 2024-11-08 20:50\n"
+"PO-Revision-Date: 2024-11-18 14:00\n"
 "Last-Translator: Full Name <email@address>\n"
 "Language-Team: Belarusian\n"
 "MIME-Version: 1.0\n"
@@ -2276,11 +2276,11 @@ msgstr "&Спіс выбраных каталогаў"
 
 #: tfrmmain.actdoanycmcommand.caption
 msgid "Execute &internal command..."
-msgstr "Выканаць &унутраны загад..."
+msgstr "Выканаць &унутраную каманду..."
 
 #: tfrmmain.actdoanycmcommand.hint
 msgid "Select any command and execute it"
-msgstr "Абраць загад і выканаць яго"
+msgstr "Абраць каманду і выканаць яе"
 
 #: tfrmmain.actedit.caption
 msgctxt "TFRMMAIN.ACTEDIT.CAPTION"
@@ -2342,7 +2342,7 @@ msgstr "&Сціслы выгляд, толькі ў абраным"
 
 #: tfrmmain.actfocuscmdline.caption
 msgid "Focus command line"
-msgstr "Перайсці да загаднага радка"
+msgstr "Перайсці да каманднага радка"
 
 #: tfrmmain.actfocusswap.caption
 msgid "Swap focus"
@@ -2786,7 +2786,7 @@ msgstr "Паказаць кнопкі меню"
 
 #: tfrmmain.actshowcmdlinehistory.caption
 msgid "Show command line history"
-msgstr "Паказаць гісторыю загаднага радка"
+msgstr "Паказаць гісторыю каманднага радка"
 
 #: tfrmmain.actshowmainmenu.caption
 msgid "Menu"
@@ -3147,7 +3147,7 @@ msgstr "Скасаваць"
 
 #: tfrmmain.mnucmd.caption
 msgid "&Commands"
-msgstr "&Загады"
+msgstr "&Каманды"
 
 #: tfrmmain.mnuconfig.caption
 msgid "C&onfiguration"
@@ -3229,7 +3229,7 @@ msgstr "&Добра"
 #: tfrmmaincommandsdlg.caption
 msgctxt "tfrmmaincommandsdlg.caption"
 msgid "Select your internal command"
-msgstr "Абраць унутраны загад"
+msgstr "Абраць унутраную каманду"
 
 #: tfrmmaincommandsdlg.cbcategorysortornot.text
 msgctxt "tfrmmaincommandsdlg.cbcategorysortornot.text"
@@ -3255,7 +3255,7 @@ msgstr "&Катэгорыі:"
 
 #: tfrmmaincommandsdlg.lblcommandname.caption
 msgid "Command &name:"
-msgstr "&Назва загаду:"
+msgstr "&Назва каманды:"
 
 #: tfrmmaincommandsdlg.lbledtfilter.editlabel.caption
 msgid "&Filter:"
@@ -3760,7 +3760,7 @@ msgstr "Абраць праграму"
 
 #: tfrmopenwith.chkcustomcommand.caption
 msgid "Custom command"
-msgstr "Адвольны загад"
+msgstr "Адвольная каманда"
 
 #: tfrmopenwith.chksaveassociation.caption
 msgid "Save association"
@@ -4311,7 +4311,7 @@ msgstr "&Рэдагаваць"
 
 #: tfrmoptionsconfiguration.cbcmdlinehistory.caption
 msgid "Co&mmand line history"
-msgstr "Гісторыя загад&нага радка"
+msgstr "Гісторыя кама&нднага радка"
 
 #: tfrmoptionsconfiguration.cbdirhistory.caption
 msgid "&Directory history"
@@ -4361,7 +4361,7 @@ msgstr "Стан дрэва пры адкрыцці старонкі канфі�
 
 #: tfrmoptionsconfiguration.lblcmdlineconfigdir.caption
 msgid "Set on command line"
-msgstr "Вызначана праз загадны радок"
+msgstr "Вызначана праз камандны радок"
 
 #: tfrmoptionsconfiguration.lblhighlighters.caption
 msgid "Highlighters:"
@@ -5732,7 +5732,7 @@ msgstr "Кланаваць"
 #: tfrmoptionsfileassoc.btncommands.hint
 msgctxt "tfrmoptionsfileassoc.btncommands.hint"
 msgid "Select your internal command"
-msgstr "Абраць унутраны загад"
+msgstr "Абраць унутраную каманду"
 
 #: tfrmoptionsfileassoc.btndownact.caption
 msgctxt "tfrmoptionsfileassoc.btndownact.caption"
@@ -5799,7 +5799,7 @@ msgstr "&Уверх"
 
 #: tfrmoptionsfileassoc.destartpath.hint
 msgid "Starting path of the command. Never quote this string."
-msgstr "Шлях да запуску загаду. Не выкарыстоўваць двукоссі."
+msgstr "Шлях да запуску каманды. Не выкарыстоўваць двукоссі."
 
 #: tfrmoptionsfileassoc.edbactionname.hint
 msgid "Name of the action. It is never passed to the system, it's just a mnemonic name chosen by you, for you"
@@ -5807,11 +5807,11 @@ msgstr "Назва дзеяння. Яна ніколі не перадаецца
 
 #: tfrmoptionsfileassoc.edtparams.hint
 msgid "Parameter to pass to the command. Long filename with spaces should be quoted (manually entering)."
-msgstr "Параметры, што перадаюцца загаду. Назва файла з прагаламі мусіць быць у двукоссях."
+msgstr "Параметры, што перадаюцца камандзе. Назва файла з прагаламі мусіць быць у двукоссях."
 
 #: tfrmoptionsfileassoc.fnecommand.hint
 msgid "Command to execute. Never quote this string."
-msgstr "Загад для выканання. Не выкарыстоўвайце двукоссі."
+msgstr "Каманда для выканання. Не выкарыстоўвайце двукоссі."
 
 #: tfrmoptionsfileassoc.gbactiondescription.caption
 msgid "Action description"
@@ -5858,7 +5858,7 @@ msgstr "Назва дзеяння:"
 #: tfrmoptionsfileassoc.lblcommand.caption
 msgctxt "tfrmoptionsfileassoc.lblcommand.caption"
 msgid "Command:"
-msgstr "&Загад:"
+msgstr "Каманда:"
 
 #: tfrmoptionsfileassoc.lblexternalparameters.caption
 msgctxt "tfrmoptionsfileassoc.lblexternalparameters.caption"
@@ -5893,7 +5893,7 @@ msgstr "Рэдагаваць у..."
 
 #: tfrmoptionsfileassoc.migetoutputfromcommand.caption
 msgid "Get output from command"
-msgstr "Атрымаць вывад загаду"
+msgstr "Атрымаць вывад каманды"
 
 #: tfrmoptionsfileassoc.miinternaleditor.caption
 msgid "Open in Internal Editor"
@@ -5976,7 +5976,7 @@ msgstr "Выканаць у тэрмінале і пакінуць адкрыт�
 #: tfrmoptionsfileassocextra.ckbfileassoccommand.caption
 msgctxt "tfrmoptionsfileassocextra.ckbfileassoccommand.caption"
 msgid "Commands"
-msgstr "Загады"
+msgstr "Каманды"
 
 #: tfrmoptionsfileassocextra.ckbfileassocicons.caption
 msgctxt "tfrmoptionsfileassocextra.ckbfileassocicons.caption"
@@ -6000,7 +6000,7 @@ msgstr "Шляхі"
 #: tfrmoptionsfileassocextra.lbfileassocfilenamestyle.caption
 msgctxt "tfrmoptionsfileassocextra.lbfileassocfilenamestyle.caption"
 msgid "Way to set paths when adding elements for icons, commands and starting paths:"
-msgstr "Спосаб вызначэння шляхоў падчас дадання значкоў, загадаў і шляхоў запуску:"
+msgstr "Спосаб вызначэння шляхоў падчас дадання значкоў, каманд і шляхоў запуску:"
 
 #: tfrmoptionsfileassocextra.lblapplysettingsfor.caption
 msgctxt "tfrmoptionsfileassocextra.lblapplysettingsfor.caption"
@@ -6461,7 +6461,7 @@ msgstr "Захаваць неадкладна"
 
 #: tfrmoptionshotkeys.actsortbycommand.caption
 msgid "Sort by command name"
-msgstr "Упарадкаваць па назве загаду"
+msgstr "Упарадкаваць па назве каманды"
 
 #: tfrmoptionshotkeys.actsortbyhotkeysgrouped.caption
 msgid "Sort by hotkeys (grouped)"
@@ -6498,7 +6498,7 @@ msgstr "Катэгорыі"
 #: tfrmoptionshotkeys.micommands.caption
 msgctxt "TFRMOPTIONSHOTKEYS.MICOMMANDS.CAPTION"
 msgid "Command"
-msgstr "Загад"
+msgstr "Каманда"
 
 #: tfrmoptionshotkeys.misortorder.caption
 msgid "Sort order"
@@ -6507,7 +6507,7 @@ msgstr "Парадак сартавання"
 #: tfrmoptionshotkeys.stgcommands.columns[0].title.caption
 msgctxt "tfrmoptionshotkeys.stgcommands.columns[0].title.caption"
 msgid "Command"
-msgstr "Загад"
+msgstr "Каманда"
 
 #: tfrmoptionshotkeys.stgcommands.columns[1].title.caption
 msgctxt "tfrmoptionshotkeys.stgcommands.columns[1].title.caption"
@@ -6672,7 +6672,7 @@ msgstr "Паказваць бягучы прагрэс на панэлі мен�
 
 #: tfrmoptionslayout.cbshowcmdline.caption
 msgid "Show command l&ine"
-msgstr "Паказваць загадны ра&док"
+msgstr "Паказваць камандны ра&док"
 
 #: tfrmoptionslayout.cbshowcurdir.caption
 msgid "Show current director&y"
@@ -6754,7 +6754,7 @@ msgstr "&Запакаваць/распакаваць"
 
 #: tfrmoptionslog.cblogcommandlineexecution.caption
 msgid "External command line execution"
-msgstr "Выкананне вонкавага загаднага радка"
+msgstr "Выкананне вонкавага каманднага радка"
 
 #: tfrmoptionslog.cblogcpmvln.caption
 msgid "Cop&y/Move/Create link/symlink"
