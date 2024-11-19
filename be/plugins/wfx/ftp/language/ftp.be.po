@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: b5aaebc75354984d7cee90405a1f6642\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
-"PO-Revision-Date: 2024-11-01 19:10\n"
+"PO-Revision-Date: 2024-11-19 14:00\n"
 
 #: tdialogbox.btnadd.caption
 msgid "+"
@@ -97,7 +97,7 @@ msgstr "Сервер [:Порт]:"
 
 #: tdialogbox.lblinitcommands.caption
 msgid "Init commands:"
-msgstr "Адправіць &загады:"
+msgstr "Адправіць &каманды:"
 
 #: tdialogbox.lblname.caption
 msgid "Connection name:"
