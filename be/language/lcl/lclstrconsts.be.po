@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: b5aaebc75354984d7cee90405a1f6642\n"
 "Language-Team: Belarusian\n"
 "Language: be_BY\n"
-"PO-Revision-Date: 2024-11-01 19:10\n"
+"PO-Revision-Date: 2024-11-19 14:00\n"
 
 #: lclstrconsts.hhshelpbrowsernotexecutable
 #, object-pascal-format
@@ -976,7 +976,7 @@ msgstr "-session session, аднаўляе праграму з папярэдн�
 
 #: lclstrconsts.rsqtoptionstyle
 msgid "-style style or -style=style, sets the application GUI style. Possible values are motif, windows, and platinum. If you compiled Qt with additional styles or have additional styles as plugins these will be available to the -style  command line option. NOTE: Not all styles are available on all platforms. If style param does not exist Qt will start an application with default common style (windows)."
-msgstr "-style style або -style=style, вызначае стыль графічнага інтэрфейсу праграмы. Магчымыя значэнні: motif, windows, і platinum. Калі вы скампілявалі Qt з дадатковымі стылямі або маеце дадатковыя стылі, дададзеныя як ўбудовы, яны будуць даступныя для параметра загаднага радка \"-style\". УВАГА: не ўсе стылі даступныя на ўсіх платформах. Калі параметр стылю не існуе, Qt запусціць з прадвызначаным стылем (windows)."
+msgstr "-style style або -style=style, вызначае стыль графічнага інтэрфейсу праграмы. Магчымыя значэнні: motif, windows, і platinum. Калі вы скампілявалі Qt з дадатковымі стылямі або маеце дадатковыя стылі, дададзеныя як ўбудовы, яны будуць даступныя для параметра каманднага радка \"-style\". УВАГА: не ўсе стылі даступныя на ўсіх платформах. Калі параметр стылю не існуе, Qt запусціць з прадвызначаным стылем (windows)."
 
 #: lclstrconsts.rsqtoptionstylesheet
 msgid "-stylesheet stylesheet or -stylesheet=stylesheet, sets the application Style Sheet. The value must be a path to a file that contains the Style Sheet. Note: Relative URLs in the Style Sheet file are relative to the Style Sheet file's path."
